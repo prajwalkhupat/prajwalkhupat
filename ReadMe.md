@@ -32,8 +32,11 @@
 ## 🏆 GitHub Trophies
 <br>
 <p>
-  <img width="75%" src="https://github-profile-trophy.vercel.app/?username=clevercoderjoy&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4" />
+  <img width="75%" src="https://github-profile-trophy.vercel.app/?username=prajwalkhupat&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4" />
 </p>
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
