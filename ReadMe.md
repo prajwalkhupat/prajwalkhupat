@@ -15,7 +15,7 @@
 
 <p align="center"><br>🌱 I’m currently learning Full Stack Development.</p>
 
-<div align="center"><img height="100%" width="175px" id=badges src="https://komarev.com/ghpvc/?username=clevercoderjoy&color=blue" alt=""/></div>
+<div align="center"><img height="100%" width="175px" id=badges src="https://komarev.com/ghpvc/?username=prajwalkhupat&color=blue" alt=""/></div>
 
 
 ## 🌐 Socials:
